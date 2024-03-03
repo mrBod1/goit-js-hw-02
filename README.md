@@ -1,1 +1,1 @@
-https://github.com/mrBod1/goit-js-hw-02
+goit-js-hw-02
